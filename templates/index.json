@@ -36,6 +36,15 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "custom_liquid_3wMPbj": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class='mission'>At Knowledge Of Self, our mission is simple yet profound: to empower individuals to gain a deeper understanding of the intricate workings of their bodies through the healing power of nature. In a world where many corporations and industries prioritize synthetic solutions laden with chemicals that can disrupt our body's delicate balance, we believe in our body's natural abilities to fight off and reverse dis-ease utilizing resources from the Most High.<\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "multicolumn_phfEqM": {
       "type": "multicolumn",
       "blocks": {
@@ -158,6 +167,7 @@
   },
   "order": [
     "slideshow",
+    "custom_liquid_3wMPbj",
     "multicolumn_phfEqM",
     "image_banner_hWrwrb",
     "image_with_text_YqRgfW"
