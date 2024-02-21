@@ -3528,3 +3528,8 @@ details-disclosure > details {
       font-size: 25px; /* Adjust this value to your desired font size */
     }
   }
+
+.mission {
+  margin: auto;
+  margin-left: 200px;
+}
