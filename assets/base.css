@@ -3532,4 +3532,5 @@ details-disclosure > details {
 .mission {
   margin: auto; 
   text-align: center;
+  font-weight: 500;
 }
