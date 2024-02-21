@@ -3530,5 +3530,6 @@ details-disclosure > details {
   }
 
 .mission {
-  margin: auto;
+  margin: auto; 
+  text-align: center;
 }
