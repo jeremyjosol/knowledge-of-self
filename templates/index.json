@@ -42,6 +42,7 @@
         "column_8HGVbD": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/eduardo-madrid-j6amjHxtc1U-unsplash_1.jpg",
             "title": "92 out of 102",
             "text": "<p>Seamoss is known to contain 92 out of 102 vitamins & minerals that the human body requires for optimal health. By taking Seamoss, exercising regularly, eating clean, and staying hydrated, you can unlock your body's fullest potential.<\/p>",
             "link_label": "",
@@ -51,6 +52,7 @@
         "column_BhrMq9": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/kos-ad-1.jpg",
             "title": "Anti-inflammatory",
             "text": "<p>Excess mucus is one of the primary factors to inflammation in the human body. Seamoss has been proven to break down and expel mucus from the body which is key to fighting:<\/p><ul><li>Athritis<\/li><li>Asthma<\/li><li>Allergies<\/li><\/ul>",
             "link_label": "",
@@ -60,8 +62,8 @@
         "column_tn8G4D": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Boost Libido",
+            "text": "<p>Experience the power of nature's aphrodisiac with our premium Sea Moss supplement. Renowned for centuries as a natural libido enhancer, Sea Moss offers a holistic approach to reviving passion and vitality in your life.<\/p>",
             "link_label": "",
             "link": ""
           }
