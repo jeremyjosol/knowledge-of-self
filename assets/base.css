@@ -3528,3 +3528,19 @@ details-disclosure > details {
       font-size: 25px; /* Adjust this value to your desired font size */
     }
   }
+
+.slideshow__btn-wrapper>a:hover{
+    background:#000000 !important;
+    color: #ffffff !important;
+}
+
+#shopify-section-16222160641e5f632a .input-group__btn   .btn:hover {
+ background: #000000 !important;
+    color: #ffffff !important;
+}
+
+
+#shopify-section-footer .btn.newsletter__submit:hover{
+    background: #000000 !important;
+    color: #ffffff !important;
+}
