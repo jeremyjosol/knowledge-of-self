@@ -3513,10 +3513,10 @@ details-disclosure > details {
   top: 0;
   bottom: 0;
   margin: auto;
-  margin-top: 120px;
+  margin-top: 150px;
   text-align: center;
   font-size: 10px;
-  padding-bottom: 100px;
+  padding-bottom: 150px;
   }
   .slider.slider--everywhere .slideshow__text.banner__box {
   background: rgb(255 255 255 / 10%);
