@@ -1345,10 +1345,6 @@ button.shopify-payment-button__button--unbranded {
   padding: 1.2rem 2.6rem;
 }
 
-.button:hover {
-  background-color: blue;
-}
-
 /* Button - other */
 
 .button:disabled,
