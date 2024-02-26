@@ -66,6 +66,53 @@
         "padding_bottom": 52
       }
     },
+    "image_with_text_YqRgfW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ar9DKK": {
+          "type": "heading",
+          "settings": {
+            "heading": "Organic Sea Moss",
+            "heading_size": "h1"
+          }
+        },
+        "text_PUgy8f": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our best selling Organic Seamoss blend, is designed to optimize your optimal performance.<\/p><p><\/p><h6>RECEIVE 20% OFF YOUR FIRST ORDER!<\/h6><h5><\/h5><p> <\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_BAeK9q": {
+          "type": "button",
+          "settings": {
+            "button_label": "BUY NOW",
+            "button_link": "shopify:\/\/collections",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_ar9DKK",
+        "text_PUgy8f",
+        "button_BAeK9q"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Copy_of_First_Release_Sea_Moss.svg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-2",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
     "multicolumn_phfEqM": {
       "type": "multicolumn",
       "blocks": {
@@ -137,60 +184,13 @@
         "stack_images_on_mobile": true,
         "show_text_below": false
       }
-    },
-    "image_with_text_YqRgfW": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_ar9DKK": {
-          "type": "heading",
-          "settings": {
-            "heading": "Organic Sea Moss",
-            "heading_size": "h1"
-          }
-        },
-        "text_PUgy8f": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Our best selling Organic Seamoss blend, is designed to optimize your optimal performance.<\/p><p><\/p><h6>RECEIVE 20% OFF YOUR FIRST ORDER!<\/h6><h5><\/h5><p> <\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_BAeK9q": {
-          "type": "button",
-          "settings": {
-            "button_label": "BUY NOW",
-            "button_link": "shopify:\/\/collections",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_ar9DKK",
-        "text_PUgy8f",
-        "button_BAeK9q"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Copy_of_First_Release_Sea_Moss.svg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-2",
-        "color_scheme": "scheme-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "padding_top": 0,
-        "padding_bottom": 100
-      }
     }
   },
   "order": [
     "slideshow",
     "rich_text_WYJtym",
+    "image_with_text_YqRgfW",
     "multicolumn_phfEqM",
-    "image_banner_hWrwrb",
-    "image_with_text_YqRgfW"
+    "image_banner_hWrwrb"
   ]
 }
