@@ -3533,3 +3533,9 @@ details-disclosure > details {
   text-align: center;
   font-weight: 500;
 }
+
+.mission-p {
+  margin: auto;
+  margin-left: 20px;
+  margin-right: 20px;
+}
