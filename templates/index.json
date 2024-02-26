@@ -110,7 +110,7 @@
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "padding_top": 44,
-        "padding_bottom": 44
+        "padding_bottom": 0
       }
     },
     "multicolumn_phfEqM": {
