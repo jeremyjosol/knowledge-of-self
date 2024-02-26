@@ -39,7 +39,7 @@
     "custom_liquid_3wMPbj": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class='mission'>\n<h1>About Us<\/h1>\nAt Knowledge Of Self, our mission is simple: to empower humans to gain a deeper understanding of the intricate workings of their bodies through the healing power of nature. In a world where the majority of corporations and industries prioritize synthetic solutions laden with chemicals that disrupt our body's delicate balance, we believe in raising awareness of our body's natural abilities to fight off and reverse dis-ease utilizing resources from the Most High.<\/div>",
+        "custom_liquid": "<div class='mission'>\n<h1>About Us<\/h1>\n<span class='mission-p'>At Knowledge Of Self, our mission is simple: to empower humans to gain a deeper understanding of the intricate workings of their bodies through the healing power of nature. In a world where the majority of corporations and industries prioritize synthetic solutions laden with chemicals that disrupt our body's delicate balance, we believe in raising awareness of our body's natural abilities to fight off and reverse dis-ease utilizing resources from the Most High.<\/div>",
         "color_scheme": "scheme-2",
         "padding_top": 100,
         "padding_bottom": 100
