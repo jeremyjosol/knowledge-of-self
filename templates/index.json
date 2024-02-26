@@ -6,7 +6,7 @@
         "slide-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Copy_of_OPTIMIZE_YOUR_HEALTH_Poster_X-Large_Landscape_2_8b05a163-5a7e-458c-a3fd-11a3ba49af3b.png",
+            "image": "shopify:\/\/shop_images\/POSTER.png",
             "heading": "ORGANIC. HOLISTIC. NATURAL SEAMOSS REMEDIES.",
             "heading_size": "h2",
             "subheading": "Experience the rejuvenating benefits of our formulated wildcrafted <strong>Seamoss <\/strong>blends, thoughtfully crafted to prioritize your health and wellbeing with concsious intention.",
@@ -14,7 +14,7 @@
             "link": "shopify:\/\/collections\/all",
             "button_style_secondary": false,
             "box_align": "top-center",
-            "show_text_box": false,
+            "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "scheme-2",
