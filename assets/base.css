@@ -3535,4 +3535,6 @@ details-disclosure > details {
 }
 
 .mission-p {
+  padding: 0 20px; /* Adjust the padding as needed */
 }
+
