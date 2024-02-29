@@ -143,8 +143,8 @@
           "text": "#ffffff",
           "button": "#000000",
           "button_label": "#eff0f5",
-          "secondary_button_label": "#0e1b4d",
-          "shadow": "#0e1b4d"
+          "secondary_button_label": "#ffffff",
+          "shadow": "#5f287c"
         }
       },
       "scheme-2": {
