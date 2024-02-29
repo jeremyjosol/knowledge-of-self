@@ -42,41 +42,6 @@
         "padding_bottom": 52
       }
     },
-    "slideshow": {
-      "type": "slideshow",
-      "blocks": {
-        "slide-0": {
-          "type": "slide",
-          "settings": {
-            "heading": "ORGANIC. HOLISTIC. NATURAL SEAMOSS REMEDIES.",
-            "heading_size": "h2",
-            "subheading": "Experience the rejuvenating benefits of our formulated wildcrafted <strong>Sea Moss <\/strong>blends, thoughtfully crafted to prioritize your health and wellbeing with concsious intention.",
-            "button_label": "SHOP NOW",
-            "link": "shopify:\/\/collections\/all",
-            "button_style_secondary": false,
-            "box_align": "top-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-2",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide-0"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "small",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "ambient",
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
-      }
-    },
     "rich_text_WYJtym": {
       "type": "rich-text",
       "blocks": {
@@ -213,7 +178,6 @@
   },
   "order": [
     "rich_text_bDmgUD",
-    "slideshow",
     "rich_text_WYJtym",
     "image_with_text_YqRgfW",
     "multicolumn_phfEqM"
