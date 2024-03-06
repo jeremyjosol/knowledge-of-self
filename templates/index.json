@@ -5,6 +5,7 @@
       "blocks": {
         "heading_EWeFkd": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "NATURAL HEALING.",
             "heading_size": "h0"
@@ -19,6 +20,7 @@
         },
         "button_N4PAGd": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "SHOP NOW",
             "button_link": "shopify:\/\/products\/organic-irish-seamoss-blend",
@@ -34,6 +36,7 @@
         "text_p4kUy3",
         "button_N4PAGd"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -57,9 +60,9 @@
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
-        "enable_desktop_slider": false,
+        "enable_desktop_slider": true,
         "color_scheme": "",
-        "image_ratio": "adapt",
+        "image_ratio": "portrait",
         "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
