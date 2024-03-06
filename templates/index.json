@@ -6,12 +6,13 @@
         "heading_EWeFkd": {
           "type": "heading",
           "settings": {
-            "heading": "ORGANIC. HOLISTIC. NATURAL SEA MOSS REMEDIES.",
-            "heading_size": "h2"
+            "heading": "NATURAL HEALING.",
+            "heading_size": "h0"
           }
         },
         "text_p4kUy3": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Experience the rejuvenating benefits of our formulated wildcrafted <strong>Sea Moss <\/strong>blends, thoughtfully crafted to prioritize your health and wellbeing with concsious intention.<\/p>"
           }
