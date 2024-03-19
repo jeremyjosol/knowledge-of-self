@@ -349,12 +349,6 @@
             "text_style": "uppercase"
           }
         },
-        "title_9iegtm": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
         "price_qdaX89": {
           "type": "price",
           "settings": {
@@ -388,7 +382,6 @@
       },
       "block_order": [
         "text_yeBJmj",
-        "title_9iegtm",
         "price_qdaX89",
         "variant_picker_Ut4e9E",
         "quantity_selector_r3TkU4",
