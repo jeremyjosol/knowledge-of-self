@@ -113,7 +113,7 @@
           "type": "heading",
           "settings": {
             "heading": "Organic Wildcrafted Sea Moss",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "text_PUgy8f": {
@@ -214,17 +214,11 @@
     "featured_product_tmDCxX": {
       "type": "featured-product",
       "blocks": {
-        "text_jqJHMW": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "title_qqWTyy": {
           "type": "title",
+          "disabled": true,
           "settings": {
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "price_x8mkAX": {
@@ -235,7 +229,7 @@
         "variant_picker_jLJq9e": {
           "type": "variant_picker",
           "settings": {
-            "picker_type": "button",
+            "picker_type": "dropdown",
             "swatch_shape": "circle"
           }
         },
@@ -259,7 +253,6 @@
         }
       },
       "block_order": [
-        "text_jqJHMW",
         "title_qqWTyy",
         "price_x8mkAX",
         "variant_picker_jLJq9e",
