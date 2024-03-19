@@ -139,7 +139,8 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/Copy_of_First_Release_Sea_Moss_2.svg",
+        "image": "shopify:\/\/shop_images\/CopyofSEAMOSSLABEL.png",
+        "image_link": "shopify:\/\/products\/organic-irish-seamoss-blend",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -260,6 +261,7 @@
         "buy_buttons_c9qind",
         "share_bdFFcR"
       ],
+      "disabled": true,
       "settings": {
         "product": "organic-irish-seamoss-blend",
         "color_scheme": "",
@@ -324,6 +326,7 @@
         "buy_buttons_tKmxDW",
         "share_THQeYd"
       ],
+      "disabled": true,
       "settings": {
         "product": "organic-ashwaganda-650mg",
         "color_scheme": "",
@@ -388,6 +391,7 @@
         "buy_buttons_8MRLPX",
         "share_r9VT8p"
       ],
+      "disabled": true,
       "settings": {
         "product": "adaptogenic-mushrooms-1300mg",
         "color_scheme": "",
