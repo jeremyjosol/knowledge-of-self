@@ -109,20 +109,6 @@
     "image_with_text_YqRgfW": {
       "type": "image-with-text",
       "blocks": {
-        "heading_ar9DKK": {
-          "type": "heading",
-          "settings": {
-            "heading": "Organic Wildcrafted Sea Moss",
-            "heading_size": "h2"
-          }
-        },
-        "text_PUgy8f": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Our best selling Organic Seamoss blend, is designed to optimize your optimal performance.<\/p><p><\/p><h6>RECEIVE 20% OFF YOUR FIRST ORDER!<\/h6><h5><\/h5><p> <\/p>",
-            "text_style": "body"
-          }
-        },
         "button_BAeK9q": {
           "type": "button",
           "settings": {
@@ -133,11 +119,8 @@
         }
       },
       "block_order": [
-        "heading_ar9DKK",
-        "text_PUgy8f",
         "button_BAeK9q"
       ],
-      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/CopyofSEAMOSSLABEL.png",
         "image_link": "shopify:\/\/products\/organic-irish-seamoss-blend",
