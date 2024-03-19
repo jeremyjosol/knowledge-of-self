@@ -95,6 +95,7 @@
         "heading_qXp9jB",
         "text_Hwkr9W"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -135,6 +136,7 @@
         "text_PUgy8f",
         "button_BAeK9q"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Copy_of_First_Release_Sea_Moss_2.svg",
         "height": "adapt",
@@ -190,6 +192,7 @@
         "column_BhrMq9",
         "column_tn8G4D"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h0",
