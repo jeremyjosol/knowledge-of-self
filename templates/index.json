@@ -113,7 +113,7 @@
           "type": "button",
           "settings": {
             "button_label": "BUY NOW",
-            "button_link": "shopify:\/\/collections",
+            "button_link": "shopify:\/\/products\/organic-irish-seamoss-blend",
             "button_style_secondary": false
           }
         }
@@ -126,8 +126,8 @@
         "image_link": "shopify:\/\/products\/organic-irish-seamoss-blend",
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
         "section_color_scheme": "scheme-2",
