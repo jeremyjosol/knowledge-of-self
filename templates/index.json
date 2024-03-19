@@ -48,6 +48,7 @@
     },
     "featured_collection_JWq9k4": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -209,6 +210,77 @@
         "padding_top": 0,
         "padding_bottom": 36
       }
+    },
+    "featured_product_tmDCxX": {
+      "type": "featured-product",
+      "blocks": {
+        "text_jqJHMW": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_qqWTyy": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_x8mkAX": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_jLJq9e": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_hFHP9y": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_c9qind": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_bdFFcR": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_jqJHMW",
+        "title_qqWTyy",
+        "price_x8mkAX",
+        "variant_picker_jLJq9e",
+        "quantity_selector_hFHP9y",
+        "buy_buttons_c9qind",
+        "share_bdFFcR"
+      ],
+      "settings": {
+        "product": "organic-irish-seamoss-blend",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
@@ -216,6 +288,7 @@
     "featured_collection_JWq9k4",
     "rich_text_WYJtym",
     "image_with_text_YqRgfW",
-    "multicolumn_phfEqM"
+    "multicolumn_phfEqM",
+    "featured_product_tmDCxX"
   ]
 }
