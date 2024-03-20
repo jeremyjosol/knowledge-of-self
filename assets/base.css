@@ -3540,15 +3540,16 @@ details-disclosure > details {
 
 @media (max-width: 767px) {
   .banner .banner__buttons .button.button--secondary {
-    padding-left: 50px;
-    padding-right: 50px; /* Adjust padding as needed */
+    padding: 1px 4px; /* Adjust padding as needed */
     font-size: 8px; /* Adjust font size as needed */
+    width: auto; /* Optionally adjust width */
+    box-sizing: content-box; /* Optionally adjust box-sizing */
+    margin: 0; /* Optionally adjust margins */
   }
 }
 
 .banner .banner__buttons .button.button--secondary {
-  padding-left: -10px;
-  padding-right: -10px; /* Default padding */
+  padding: 2px 8px; /* Default padding */
   font-size: 10px; /* Default font size */
 }
 
