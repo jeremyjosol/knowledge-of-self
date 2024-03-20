@@ -3538,3 +3538,9 @@ details-disclosure > details {
   padding: 0 20px; /* Adjust the padding as needed */
 }
 
+@media only screen and (max-width: 750px){
+li.multicolumn-list__item.grid__item {
+    width: 32%;
+}
+}
+
