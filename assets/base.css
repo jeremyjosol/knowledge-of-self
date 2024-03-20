@@ -3540,10 +3540,10 @@ details-disclosure > details {
 
 @media (max-width: 767px) {
   .banner .banner__buttons .button.button--secondary {
-    /* padding: -5px -5px; /* Adjust padding as needed */
+    padding: -5px -5px; 
     font-size: 8px; /* Adjust font size as needed */ */
     width: 1px !important; /* Optionally adjust width */
-    /* box-sizing: content-box; /* Optionally adjust box-sizing */ */
+    box-sizing: border-box;
     margin: 0; /* Optionally adjust margins */
   }
 }
