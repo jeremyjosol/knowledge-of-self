@@ -3537,3 +3537,10 @@ details-disclosure > details {
 .mission .mission-p {
   padding: 0 20px; /* Adjust the padding as needed */
 }
+
+@media screen and (max-width: 750px){
+  .banner--content-align-mobile-center .banner__buttons--multiple>* {
+     min-width: 12rem !important;
+     padding: 0 2.5rem !important;
+  }
+}
