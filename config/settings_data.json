@@ -14,7 +14,7 @@
     "animations_hover_elements": "none",
     "buttons_border_thickness": 0,
     "buttons_border_opacity": 100,
-    "buttons_radius": 40,
+    "buttons_radius": 8,
     "buttons_shadow_opacity": 50,
     "buttons_shadow_horizontal_offset": 0,
     "buttons_shadow_vertical_offset": 4,
@@ -68,7 +68,7 @@
     "blog_card_shadow_blur": 5,
     "text_boxes_border_thickness": 0,
     "text_boxes_border_opacity": 0,
-    "text_boxes_radius": 20,
+    "text_boxes_radius": 0,
     "text_boxes_shadow_opacity": 0,
     "text_boxes_shadow_horizontal_offset": 0,
     "text_boxes_shadow_vertical_offset": 4,
@@ -142,7 +142,7 @@
           "background_gradient": "",
           "text": "#ffffff",
           "button": "#000000",
-          "button_label": "#fff",
+          "button_label": "#ffffff",
           "secondary_button_label": "#f5f5f5",
           "shadow": "#000000"
         }
