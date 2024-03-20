@@ -206,7 +206,7 @@
         ".animate-arrow {display: none;}",
         "p {font-size: 14px;}",
         "h6 {position: relative; top: -20px;}",
-        "@media screen and (max-width: 750px) {p {font-size: 10px; }}"
+        "@media screen and (max-width: 750px) {p {font-size: 8px; }}"
       ],
       "settings": {
         "title": "Our Bestsellers",
