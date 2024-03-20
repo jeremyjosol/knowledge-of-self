@@ -231,7 +231,7 @@
         "text_Bhfm76": {
           "type": "text",
           "settings": {
-            "text": "Buy our best value bundle!",
+            "text": "",
             "text_style": "body"
           }
         },
@@ -252,7 +252,7 @@
         "buttons_MPwjfh"
       ],
       "custom_css": [
-        ".button {position: relative; bottom: 10 right: 50px;}"
+        ".button {position: relative; bottom: 50px; right: 50px;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/SHOP_BUNDLE.png",
