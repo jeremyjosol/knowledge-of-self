@@ -228,13 +228,6 @@
     "image_banner_4E3XpM": {
       "type": "image-banner",
       "blocks": {
-        "text_Bhfm76": {
-          "type": "text",
-          "settings": {
-            "text": "asdas",
-            "text_style": "body"
-          }
-        },
         "buttons_MPwjfh": {
           "type": "buttons",
           "settings": {
@@ -248,7 +241,6 @@
         }
       },
       "block_order": [
-        "text_Bhfm76",
         "buttons_MPwjfh"
       ],
       "custom_css": [
