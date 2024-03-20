@@ -252,7 +252,7 @@
         "buttons_MPwjfh"
       ],
       "custom_css": [
-        ".button {position: relative; top: 10px; right: 10px;}"
+        ".button {position: relative; bottom: 10 right: 50px;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/SHOP_BUNDLE.png",
