@@ -170,20 +170,10 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/CopyofSEAMOSSLABEL.png",
-            "title": "Organic Sea Moss",
+            "title": "$26.99",
             "text": "",
             "link_label": "",
             "link": "shopify:\/\/products\/organic-irish-seamoss-blend"
-          }
-        },
-        "column_PLkpwt": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ASHWAGANDALABEL.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/products\/organic-ashwaganda-650mg"
           }
         },
         "column_4GYBhp": {
@@ -195,12 +185,22 @@
             "link_label": "",
             "link": "shopify:\/\/products\/adaptogenic-mushrooms-1300mg"
           }
+        },
+        "column_PLkpwt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ASHWAGANDALABEL.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/organic-ashwaganda-650mg"
+          }
         }
       },
       "block_order": [
         "column_kdAtca",
-        "column_PLkpwt",
-        "column_4GYBhp"
+        "column_4GYBhp",
+        "column_PLkpwt"
       ],
       "custom_css": [
         ".animate-arrow {display: none;}"
