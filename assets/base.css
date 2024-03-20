@@ -3538,4 +3538,7 @@ details-disclosure > details {
   padding: 0 20px; /* Adjust the padding as needed */
 }
 
+.banner__box .banner__buttons .button{
+  padding: 2rem 5rem;
+}
 
