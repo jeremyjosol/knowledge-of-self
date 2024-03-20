@@ -3540,7 +3540,7 @@ details-disclosure > details {
 
 @media screen and (max-width: 750px) {
   #shopify-section-template--16690350325912__image_banner_4E3XpM .button {
-    max-width: 0.5rem !important;
+    width: 0.5rem !important;
     padding: 0 0.2rem !important;
   }
 }
