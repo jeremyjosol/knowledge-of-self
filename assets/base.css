@@ -3540,7 +3540,7 @@ details-disclosure > details {
 
 @media screen and (max-width: 750px){
   .banner--content-align-mobile-center .banner__buttons--multiple>* {
-     min-width: 8rem !important;
-     padding: 0 1.2rem !important;
+     min-width: 1rem !important;
+     padding: 0 0.2rem !important;
   }
 }
