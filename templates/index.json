@@ -204,7 +204,7 @@
       ],
       "custom_css": [
         ".animate-arrow {display: none;}",
-        "h6 {margin-bottom: 10px;}"
+        "h6 {position: relative; top: -20px;}"
       ],
       "settings": {
         "title": "Our Bestsellers",
