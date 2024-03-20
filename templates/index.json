@@ -204,6 +204,7 @@
       ],
       "custom_css": [
         ".animate-arrow {display: none;}",
+        "p {font-size: 12px;}",
         "h6 {position: relative; top: -20px;}"
       ],
       "settings": {
