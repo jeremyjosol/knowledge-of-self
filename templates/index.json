@@ -170,8 +170,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/CopyofSEAMOSSLABEL.png",
-            "title": "$26.99",
-            "text": "",
+            "title": "",
+            "text": "<p>Organic Wildcrafted Sea Moss<\/p>",
             "link_label": "",
             "link": "shopify:\/\/products\/organic-irish-seamoss-blend"
           }
