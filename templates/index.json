@@ -203,7 +203,8 @@
         "column_PLkpwt"
       ],
       "custom_css": [
-        ".animate-arrow {display: none;}"
+        ".animate-arrow {display: none;}",
+        "h6 {margin-bottom: 10px;}"
       ],
       "settings": {
         "title": "Our Bestsellers",
