@@ -205,7 +205,8 @@
       "custom_css": [
         ".animate-arrow {display: none;}",
         "p {font-size: 14px;}",
-        "h6 {position: relative; top: -20px;}"
+        "h6 {position: relative; top: -20px;}",
+        "@media (max-width: 750px) {p {font-size: 12px; }}"
       ],
       "settings": {
         "title": "Our Bestsellers",
