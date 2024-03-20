@@ -3542,7 +3542,7 @@ details-disclosure > details {
   .banner .banner__buttons .button.button--secondary {
     padding: 1px 4px; /* Adjust padding as needed */
     font-size: 8px; /* Adjust font size as needed */
-    width: auto; /* Optionally adjust width */
+    width: 50px !important; /* Optionally adjust width */
     box-sizing: content-box; /* Optionally adjust box-sizing */
     margin: 0; /* Optionally adjust margins */
   }
