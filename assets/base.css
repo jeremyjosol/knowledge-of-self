@@ -3548,8 +3548,8 @@ details-disclosure > details {
   }
 }
 
-.banner .banner__buttons .button.button--secondary {
-  padding: 2px 8px; /* Default padding */
+/* .banner .banner__buttons .button.button--secondary {
+  padding: 0px 0px; /* Default padding */
   font-size: 10px; /* Default font size */
 }
-
+ */
