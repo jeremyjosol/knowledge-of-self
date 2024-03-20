@@ -206,8 +206,8 @@
         ".animate-arrow {display: none;}"
       ],
       "settings": {
-        "title": "Products",
-        "heading_size": "h1",
+        "title": "Our Bestsellers",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "square",
         "columns_desktop": 3,
