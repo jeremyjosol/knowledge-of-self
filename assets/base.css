@@ -3543,7 +3543,7 @@ details-disclosure > details {
     /* padding: -5px -5px; /* Adjust padding as needed */
     font-size: 8px; /* Adjust font size as needed */ */
     width: 1px !important; /* Optionally adjust width */
-    box-sizing: content-box; /* Optionally adjust box-sizing */
+    /* box-sizing: content-box; /* Optionally adjust box-sizing */ */
     margin: 0; /* Optionally adjust margins */
   }
 }
