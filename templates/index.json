@@ -191,7 +191,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/ASHWAGANDALABEL.png",
             "title": "",
-            "text": "<p>Organic Ashwaganda 655mg<\/p><h6>$26.99 USD<\/h6>",
+            "text": "<p>Ashwaganda* 655mg<\/p><h6>$26.99 USD<\/h6>",
             "link_label": "",
             "link": "shopify:\/\/products\/organic-ashwaganda-650mg"
           }
@@ -206,7 +206,7 @@
         ".animate-arrow {display: none;}",
         "p {font-size: 14px;}",
         "h6 {position: relative; top: -20px;}",
-        "@media screen and (max-width: 750px) {p {font-size: 7px; }}"
+        "@media screen and (max-width: 750px) {p {font-size: 12px; }}"
       ],
       "settings": {
         "title": "Our Bestsellers",
