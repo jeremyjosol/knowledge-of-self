@@ -254,7 +254,7 @@
       "custom_css": [
         "@media screen and (max-width: 750px) {.button {font-size: 11.5px; position: relative; margin: auto; text-align: center; max-width: 100px !important; }}",
         ".button:hover {color: white;}",
-        ".button {color: black; background-color: white;}"
+        ".button {color: white; background-color: white;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/SHOP_BUNDLE_3.png",
