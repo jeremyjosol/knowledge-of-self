@@ -3547,7 +3547,8 @@ details-disclosure > details {
 }
 
 .banner .banner__buttons .button.button--secondary {
-  width: 500px; /* Default padding */
+  padding-left: -10px;
+  padding-right: -10px; /* Default padding */
   font-size: 10px; /* Default font size */
 }
 
