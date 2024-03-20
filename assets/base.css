@@ -3538,7 +3538,18 @@ details-disclosure > details {
   padding: 0 20px; /* Adjust the padding as needed */
 }
 
-.banner__box .banner__buttons .button{
-  width: 10px;
+.banner__buttons > a.button.button--first:before { 
+    background: white;
+    height: 80%;
+    top: 10%;
+    width: 90%;
+    left: 5%
+      
+}
+.banner__buttons > a.button.button--first{
+    color: black
+}
+.banner__buttons > a.button.button--first:after {
+    display: none !important;
 }
 
