@@ -243,7 +243,7 @@
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_style_secondary_2": true
           }
         }
       },
@@ -252,7 +252,6 @@
         "buttons_MPwjfh"
       ],
       "custom_css": [
-        ".button {width: 100px !important; }",
         "@media screen and (max-width: 750px) {.button {font-size: 11.5px; position: relative; margin: auto; text-align: center; max-width: 100px !important; }}",
         ".button:hover {color: white;}"
       ],
