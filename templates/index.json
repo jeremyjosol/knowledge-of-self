@@ -256,9 +256,9 @@
         ".button:hover {color: white;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/SHOP_BUNDLE_2.png",
+        "image": "shopify:\/\/shop_images\/SHOP_BUNDLE_3.png",
         "image_overlay_opacity": 0,
-        "image_height": "adapt",
+        "image_height": "small",
         "desktop_content_position": "top-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -266,7 +266,7 @@
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": false
       }
     }
   },
