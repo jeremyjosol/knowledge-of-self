@@ -69,7 +69,7 @@
       ],
       "custom_css": [
         "h1 {font-size: 30px;}",
-        ".quantity:after {border-radius: 5px !important; border: none !important;}"
+        ".quantity:after {border-radius: 5px !important; box-shadow: none !important;}"
       ],
       "settings": {
         "enable_sticky_info": true,
