@@ -68,7 +68,7 @@
         "share"
       ],
       "custom_css": [
-        "h1 {font-size: 32px;}"
+        "h1 {font-size: 30px;}"
       ],
       "settings": {
         "enable_sticky_info": true,
