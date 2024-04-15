@@ -83,8 +83,8 @@
       "custom_css": [
         "h1 {font-size: 30px;}",
         ".quantity:after {border-radius: 5px !important; box-shadow: none !important;}",
-        ".icon-with-text {--icon-size: calc(var(--font-heading-scale) * 1rem); --icon-spacing: calc(var(--font-heading-scale) * 2rem);}",
-        "li.icon-with-text__item span {font-size: 5px;}"
+        ".icon-with-text {--icon-size: calc(var(--font-heading-scale) * 1rem); --icon-spacing: calc(var(--font-heading-scale) * 1rem);}",
+        "li.icon-with-text__item span {font-size: 7px;}"
       ],
       "settings": {
         "enable_sticky_info": true,
