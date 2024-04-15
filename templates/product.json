@@ -23,8 +23,8 @@
             "heading_1": "GET 25% OFF! USE CODE: 'ESOTERIC'",
             "icon_2": "bottle",
             "heading_2": "60 CAPSULES PER BOTTLE",
-            "icon_3": "price_tag",
-            "heading_3": "BEST QUALITY VALUE"
+            "icon_3": "truck",
+            "heading_3": "FREE US SHIPPING"
           }
         },
         "rating": {
@@ -61,6 +61,24 @@
           "settings": {
           }
         },
+        "collapsible_tab_9K7UPg": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "INGREDIENTS",
+            "icon": "leaf",
+            "content": "<p><strong>*PER SERVING*<\/strong><\/p><ul><li>650mg Organic Ashwaganda<\/li><li>5mg Organic Black Pepper<\/li><\/ul>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_j7NyCi": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "BENEFITS",
+            "icon": "check_mark",
+            "content": "<ul><li>ANXIETY AND STRESS RELIEF<\/li><li>HEART HEALTH<\/li><li>STRENGTHENS AND BUILDS MUSCLE<\/li><li>SUPPORTS WEIGHT LOSS<\/li><li>SLEEP BETTER<\/li><\/ul>",
+            "page": ""
+          }
+        },
         "share": {
           "type": "share",
           "settings": {
@@ -78,6 +96,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
+        "collapsible_tab_9K7UPg",
+        "collapsible_tab_j7NyCi",
         "share"
       ],
       "custom_css": [
@@ -106,13 +126,14 @@
     },
     "related-products": {
       "type": "related-products",
+      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "heading_size": "h2",
         "products_to_show": 4,
         "columns_desktop": 4,
         "color_scheme": "scheme-1",
-        "image_ratio": "portrait",
+        "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
