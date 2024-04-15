@@ -75,7 +75,7 @@
           "settings": {
             "heading": "BENEFITS",
             "icon": "star",
-            "content": "<ul><li>Reduces anxiety and stress<\/li><li>Promotes heart health<\/li><li>Enhances muscle strength and growth<\/li><li>Aids in weight management<\/li><li>Improves sleep quality<\/li><\/ul>",
+            "content": "<p>{{ product.metafields.custom.benefits | metafield_tag }}<\/p>",
             "page": ""
           }
         },
