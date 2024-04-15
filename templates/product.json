@@ -74,8 +74,8 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "BENEFITS",
-            "icon": "check_mark",
-            "content": "<ul><li>ANXIETY AND STRESS RELIEF<\/li><li>HEART HEALTH<\/li><li>STRENGTHENS AND BUILDS MUSCLE<\/li><li>SUPPORTS WEIGHT LOSS<\/li><li>SLEEP BETTER<\/li><\/ul>",
+            "icon": "star",
+            "content": "<ul><li><strong>Reduces anxiety and stress<\/strong><\/li><li><strong>Promotes heart health<\/strong><\/li><li><strong>Enhances muscle strength and growth<\/strong><\/li><li><strong>Aids in weight management<\/strong><\/li><li><strong>Improves sleep quality<\/strong><\/li><\/ul>",
             "page": ""
           }
         },
