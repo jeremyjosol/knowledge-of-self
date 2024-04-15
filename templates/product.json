@@ -15,6 +15,18 @@
           "settings": {
           }
         },
+        "icon_with_text_xKDCKX": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "icon_1": "lightning_bolt",
+            "heading_1": "GET 25% OFF! USE CODE: 'ESOTERIC'",
+            "icon_2": "bottle",
+            "heading_2": "60 CAPSULES PER BOTTLE",
+            "icon_3": "price_tag",
+            "heading_3": "BEST VALUE"
+          }
+        },
         "rating": {
           "type": "rating",
           "settings": {
@@ -59,6 +71,7 @@
       "block_order": [
         "vendor",
         "title",
+        "icon_with_text_xKDCKX",
         "rating",
         "price",
         "variant_picker",
@@ -69,7 +82,8 @@
       ],
       "custom_css": [
         "h1 {font-size: 30px;}",
-        ".quantity:after {border-radius: 5px !important; box-shadow: none !important;}"
+        ".quantity:after {border-radius: 5px !important; box-shadow: none !important;}",
+        "li.icon-with-text__item span {font-size: 5px;}"
       ],
       "settings": {
         "enable_sticky_info": true,
