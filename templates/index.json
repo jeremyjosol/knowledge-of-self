@@ -48,6 +48,9 @@
     },
     "featured_collection_JWq9k4": {
       "type": "featured-collection",
+      "custom_css": [
+        ".price-item {}"
+      ],
       "settings": {
         "title": "Shop Our Bestsellers",
         "heading_size": "h2",
