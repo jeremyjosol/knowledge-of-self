@@ -24,7 +24,7 @@
             "icon_2": "bottle",
             "heading_2": "60 CAPSULES PER BOTTLE",
             "icon_3": "price_tag",
-            "heading_3": "BEST VALUE"
+            "heading_3": "BEST QUALITY VALUE"
           }
         },
         "rating": {
@@ -83,7 +83,7 @@
       "custom_css": [
         "h1 {font-size: 30px;}",
         ".quantity:after {border-radius: 5px !important; box-shadow: none !important;}",
-        ".icon-with-text {--icon-size: calc(var(--font-heading-scale) * 1rem); --icon-spacing: calc(var(--font-heading-scale) * 0.7rem);}",
+        ".icon-with-text {--icon-size: calc(var(--font-heading-scale) * 0.88rem); --icon-spacing: calc(var(--font-heading-scale) * 0.7rem);}",
         "li.icon-with-text__item span {font-size: 7px;}"
       ],
       "settings": {
