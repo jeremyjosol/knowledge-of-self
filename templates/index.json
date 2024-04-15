@@ -49,7 +49,7 @@
     "featured_collection_JWq9k4": {
       "type": "featured-collection",
       "custom_css": [
-        ".price-item {}"
+        ".price-item {color: #ffe135;}"
       ],
       "settings": {
         "title": "Shop Our Bestsellers",
