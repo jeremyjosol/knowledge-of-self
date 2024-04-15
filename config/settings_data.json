@@ -141,7 +141,7 @@
           "background": "#000000",
           "background_gradient": "",
           "text": "#ffffff",
-          "button": "#fff",
+          "button": "#ffffff",
           "button_label": "#ffffff",
           "secondary_button_label": "#f5f5f5",
           "shadow": "#000000"
@@ -152,10 +152,10 @@
           "background": "#000000",
           "background_gradient": "",
           "text": "#ffffff",
-          "button": "#fff",
+          "button": "#ffffff",
           "button_label": "#ffffff",
-          "secondary_button_label": "#000000",
-          "shadow": "#000000"
+          "secondary_button_label": "#ffffff",
+          "shadow": "#ffffff"
         }
       },
       "scheme-3": {
