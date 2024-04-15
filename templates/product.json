@@ -67,6 +67,9 @@
         "description",
         "share"
       ],
+      "custom_css": [
+        "h1 {font-size: 32px;}"
+      ],
       "settings": {
         "enable_sticky_info": true,
         "color_scheme": "scheme-2",
