@@ -66,7 +66,7 @@
           "settings": {
             "heading": "INGREDIENTS",
             "icon": "leaf",
-            "content": "<p>{{ block.settings.page.metafields.custom.ingredients | metafield_tag }}<\/p>",
+            "content": "<p>{{ product.metafields.custom.ingredients | metafield_tag }}<\/p>",
             "page": ""
           }
         },
