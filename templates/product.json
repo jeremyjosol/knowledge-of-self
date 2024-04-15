@@ -117,6 +117,7 @@
         "li.icon-with-text__item span {font-size: 7px;}",
         ".icon-with-text {margin-bottom: 10px; margin-top: -5px;}",
         ".price-item {color: #ffe135;}",
+        ".accordion__title {font-size: 18px;}",
         ".accordion__content {font-size: 10px;}"
       ],
       "settings": {
