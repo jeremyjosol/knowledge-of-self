@@ -75,7 +75,16 @@
           "settings": {
             "heading": "BENEFITS",
             "icon": "star",
-            "content": "<ul><li><strong>Reduces anxiety and stress<\/strong><\/li><li><strong>Promotes heart health<\/strong><\/li><li><strong>Enhances muscle strength and growth<\/strong><\/li><li><strong>Aids in weight management<\/strong><\/li><li><strong>Improves sleep quality<\/strong><\/li><\/ul>",
+            "content": "<ul><li>Reduces anxiety and stress<\/li><li>Promotes heart health<\/li><li>Enhances muscle strength and growth<\/li><li>Aids in weight management<\/li><li>Improves sleep quality<\/li><\/ul>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_MCRrHy": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "SHIPPING",
+            "icon": "truck",
+            "content": "<p>After orders are shipped, domestic delivery typically takes<strong> 3 - 5<\/strong> business days. This timeframe may vary depending on your location.<\/p><p>We currently only offer USPS Standard Shipping. Unfortunately, next-day expedited shipping is not available at this time.<\/p><p>We provide a 100% money-back guarantee. If you are not satisfied with your purchase, contact us within <strong>17<\/strong> days for a full refund.<\/p><p>For any additional questions or support, please contact us at <a>knowledgeofself.shop@gmail.com<\/a>.<\/p>",
             "page": ""
           }
         },
@@ -98,6 +107,7 @@
         "description",
         "collapsible_tab_9K7UPg",
         "collapsible_tab_j7NyCi",
+        "collapsible_tab_MCRrHy",
         "share"
       ],
       "custom_css": [
