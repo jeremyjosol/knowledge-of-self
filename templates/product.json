@@ -66,7 +66,7 @@
           "settings": {
             "heading": "INGREDIENTS",
             "icon": "leaf",
-            "content": "<p><strong>*PER SERVING*<\/strong><\/p><ul><li>650mg Organic Ashwaganda<\/li><li>5mg Organic Black Pepper<\/li><\/ul>",
+            "content": "<p>{{ block.settings.page.metafields.custom.ingredients | metafield_tag }}<\/p>",
             "page": ""
           }
         },
