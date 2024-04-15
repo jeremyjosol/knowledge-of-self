@@ -33,6 +33,7 @@
         "text_p4kUy3",
         "button_N4PAGd"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -45,7 +46,8 @@
     "featured_collection_JWq9k4": {
       "type": "featured-collection",
       "custom_css": [
-        ".price-item {color: #ffe135; font-size: 12px;}"
+        ".price-item {color: #ffe135; font-size: 12px;}",
+        ".collection .card__inner {width: 50%; margin: auto;}"
       ],
       "settings": {
         "title": "Shop Our Bestsellers",
