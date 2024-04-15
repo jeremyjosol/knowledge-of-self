@@ -86,7 +86,7 @@
         ".icon-with-text {--icon-size: calc(var(--font-heading-scale) * 0.88rem); --icon-spacing: calc(var(--font-heading-scale) * 0.7rem);}",
         "li.icon-with-text__item span {font-size: 7px;}",
         ".icon-with-text {margin-bottom: 10px; margin-top: -5px;}",
-        ".price__container s.price-item.price-item--regular {color: #0bda51;}"
+        ".price-item {color: #FFCC00;}"
       ],
       "settings": {
         "enable_sticky_info": true,
