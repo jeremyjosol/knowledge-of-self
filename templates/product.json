@@ -75,7 +75,7 @@
           "settings": {
             "heading": "BENEFITS",
             "icon": "star",
-            "content": "<p>{{ product.metafields.custom.benefits | metafield_tag }}<\/p>",
+            "content": "<p>{{ product.metafields.custom.benefits.value }}<\/p>",
             "page": ""
           }
         },
