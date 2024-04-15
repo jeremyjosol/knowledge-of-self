@@ -68,7 +68,8 @@
         "share"
       ],
       "custom_css": [
-        "h1 {font-size: 30px;}"
+        "h1 {font-size: 30px;}",
+        ".quantity:after {border-radius: 5px !important;}"
       ],
       "settings": {
         "enable_sticky_info": true,
