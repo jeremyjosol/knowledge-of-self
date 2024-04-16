@@ -119,7 +119,7 @@
         ".price-item {color: #ffe135;}",
         ".accordion__title {font-size: 14px;}",
         ".accordion__content {font-size: 10px;}",
-        "svg {width: 20px; height: 20px;}"
+        "svg {width: 17px; height: 17px;}"
       ],
       "settings": {
         "enable_sticky_info": true,
