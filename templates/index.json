@@ -103,7 +103,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_6.png",
-            "title": "Holistic Health",
+            "title": "<strong>Holistic Health<\/strong>",
             "text": "<p>We take pride in sustainably sourcing our products and ensuring the best value and quality to promote wellness for all humans.<\/p>",
             "link_label": "",
             "link": ""
@@ -113,7 +113,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_5.png",
-            "title": "Esoteric Education",
+            "title": "<strong>Esoteric Education<\/strong>",
             "text": "<p>We believe in seeking and teaching the truth. Follow our social media channels to stay up to date with our digital content of knowledge.<\/p>",
             "link_label": "",
             "link": ""
@@ -123,7 +123,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_4.png",
-            "title": "Concious Community",
+            "title": "<strong>Concious Community<\/strong>",
             "text": "<p>Join our community of seekers and learners for spiritual and holistic awareness for wellness of the mind, body, and soul.<\/p>",
             "link_label": "",
             "link": ""
@@ -136,7 +136,8 @@
         "column_BhrMq9"
       ],
       "custom_css": [
-        "h3 {font-size: 17px;}"
+        "h3 {font-size: 17px;}",
+        "h1 {margin-left: 20px;}"
       ],
       "settings": {
         "title": "WHY KNOWLEDGE OF SELF?",
