@@ -16,7 +16,7 @@
         "link_list_QzAGHM": {
           "type": "link_list",
           "settings": {
-            "heading": "CUSTOMER SERVICE",
+            "heading": "<strong>CUSTOMER SERVICE<\/strong>",
             "menu": "policies"
           }
         }
@@ -26,7 +26,7 @@
         "link_list_QzAGHM"
       ],
       "custom_css": [
-        "h2 {font-size: 9px;}"
+        "h2 {font-size: 8px;}"
       ],
       "settings": {
         "color_scheme": "scheme-2",
