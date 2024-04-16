@@ -84,7 +84,7 @@
           "settings": {
             "heading": "SHIPPING",
             "icon": "truck",
-            "content": "<p>After orders are shipped, domestic delivery typically takes<strong> 3 - 5<\/strong> business days via USPS Standard Shipping. This timeframe may vary depending on your location.<\/p>",
+            "content": "<p>After orders are shipped, domestic delivery typically takes<strong> 3 - 5<\/strong> business days via USPS Standard Shipping. <\/p>",
             "page": ""
           }
         },
