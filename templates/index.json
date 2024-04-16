@@ -109,6 +109,16 @@
             "link": ""
           }
         },
+        "column_tn8G4D": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_5.png",
+            "title": "Esoteric Education",
+            "text": "<p>We believe in seeking and teaching the truth. Follow our social media channels to stay up to date with our digital content of knowledge.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_BhrMq9": {
           "type": "column",
           "settings": {
@@ -118,22 +128,12 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_tn8G4D": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/we-vibe-toys-vgaiXx0hp44-unsplash.jpg",
-            "title": "Boost Your Libido!",
-            "text": "<p>Renowned for centuries as a natural libido enhancer, Sea Moss offers a holistic approach to reviving passion and vitality in your life. Known as Nature's aphrodisiac, experience life-changing benefits by enhancing your intimate performance and channeling your energy into intimacy.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "column_8HGVbD",
-        "column_BhrMq9",
-        "column_tn8G4D"
+        "column_tn8G4D",
+        "column_BhrMq9"
       ],
       "custom_css": [
         "h3 {font-size: 17px;}"
