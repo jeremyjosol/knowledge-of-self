@@ -1,47 +1,5 @@
 {
   "sections": {
-    "rich_text_bDmgUD": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_EWeFkd": {
-          "type": "heading",
-          "settings": {
-            "heading": "NATURAL HEALING",
-            "heading_size": "h0"
-          }
-        },
-        "text_p4kUy3": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Experience the rejuvenating benefits of our formulated wildcrafted <strong>Sea Moss <\/strong>blends, thoughtfully crafted to prioritize your health and wellbeing with concsious intention.<\/p>"
-          }
-        },
-        "button_N4PAGd": {
-          "type": "button",
-          "settings": {
-            "button_label": "SHOP NOW",
-            "button_link": "shopify:\/\/products\/organic-irish-seamoss-blend",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_EWeFkd",
-        "text_p4kUy3",
-        "button_N4PAGd"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "featured_collection_JWq9k4": {
       "type": "featured-collection",
       "custom_css": [
@@ -105,6 +63,48 @@
         "color_scheme": "",
         "full_width": true,
         "padding_top": 100,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_bDmgUD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_EWeFkd": {
+          "type": "heading",
+          "settings": {
+            "heading": "NATURAL HEALING",
+            "heading_size": "h0"
+          }
+        },
+        "text_p4kUy3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Experience the rejuvenating benefits of our formulated blends, thoughtfully crafted to prioritize your health and wellbeing with conscious intention.<\/p>"
+          }
+        },
+        "button_N4PAGd": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/organic-irish-seamoss-blend",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_EWeFkd",
+        "text_p4kUy3",
+        "button_N4PAGd"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
         "padding_bottom": 52
       }
     },
@@ -206,9 +206,9 @@
     }
   },
   "order": [
-    "rich_text_bDmgUD",
     "featured_collection_JWq9k4",
     "rich_text_WYJtym",
+    "rich_text_bDmgUD",
     "multicolumn_phfEqM",
     "image_banner_4E3XpM"
   ]
