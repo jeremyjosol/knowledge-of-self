@@ -47,7 +47,8 @@
       "type": "featured-collection",
       "custom_css": [
         ".price-item {color: #ffe135; font-size: 12px;}",
-        ".collection .card__inner {width: 50%; margin: auto;}"
+        ".collection .card__inner {width: 50%; margin: auto;}",
+        ".card__heading {font-size: 16px;}"
       ],
       "settings": {
         "title": "Shop Our Bestsellers",
