@@ -2,6 +2,47 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "image_3PdVrH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PNG-Transparent_2ebc1e73-1a5d-4d82-9d3f-717dc4e9849e.png",
+            "image_width": 105,
+            "alignment": "center"
+          }
+        },
+        "link_list_QzAGHM": {
+          "type": "link_list",
+          "settings": {
+            "heading": "CUSTOMER SERVICE",
+            "menu": "policies"
+          }
+        }
+      },
+      "block_order": [
+        "image_3PdVrH",
+        "link_list_QzAGHM"
+      ],
+      "custom_css": [
+        "h2 {font-size: 9px;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": true,
+        "show_social": true,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 44,
+        "padding_bottom": 60
+      }
+    },
     "newsletter": {
       "type": "newsletter",
       "blocks": {
@@ -41,48 +82,10 @@
         "padding_top": 28,
         "padding_bottom": 0
       }
-    },
-    "footer": {
-      "type": "footer",
-      "blocks": {
-        "image_3PdVrH": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/PNG-Transparent_2ebc1e73-1a5d-4d82-9d3f-717dc4e9849e.png",
-            "image_width": 105,
-            "alignment": "center"
-          }
-        },
-        "link_list_QzAGHM": {
-          "type": "link_list",
-          "settings": {
-            "heading": "",
-            "menu": "policies"
-          }
-        }
-      },
-      "block_order": [
-        "image_3PdVrH",
-        "link_list_QzAGHM"
-      ],
-      "settings": {
-        "color_scheme": "scheme-2",
-        "newsletter_enable": false,
-        "newsletter_heading": "Subscribe to our emails",
-        "enable_follow_on_shop": true,
-        "show_social": true,
-        "enable_country_selector": true,
-        "enable_language_selector": true,
-        "payment_enable": false,
-        "show_policy": false,
-        "margin_top": 0,
-        "padding_top": 44,
-        "padding_bottom": 60
-      }
     }
   },
   "order": [
-    "newsletter",
-    "footer"
+    "footer",
+    "newsletter"
   ]
 }
