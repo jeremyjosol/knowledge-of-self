@@ -2109,10 +2109,10 @@ product-info .loading__spinner:not(.hidden) ~ *,
 
 .cart-count-bubble {
   position: absolute;
-  background-color: white;
-  color: #ffe135;
-  height: 1.7rem;
-  width: 1.7rem;
+  background-color: #ffe135;
+  color: white;
+  height: 1.3rem;
+  width: 1.3rem;
   border-radius: 100%;
   display: flex;
   justify-content: center;
