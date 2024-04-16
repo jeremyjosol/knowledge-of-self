@@ -25,13 +25,13 @@
         "announcement_ULYQtq"
       ],
       "custom_css": [
-        "p {font-size: 12px;}"
+        "p {font-size: 8px;}"
       ],
       "settings": {
         "color_scheme": "",
         "show_line_separator": true,
         "show_social": false,
-        "auto_rotate": false,
+        "auto_rotate": true,
         "change_slides_speed": 5,
         "enable_country_selector": false,
         "enable_language_selector": false
