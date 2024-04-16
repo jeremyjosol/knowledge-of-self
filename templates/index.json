@@ -81,7 +81,7 @@
         "heading_EWeFkd"
       ],
       "custom_css": [
-        "h2 {font-size: 27px;}"
+        "h2 {font-size: 25px;}"
       ],
       "settings": {
         "desktop_content_position": "center",
