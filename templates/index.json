@@ -81,23 +81,11 @@
           "settings": {
             "text": "<p>Experience the rejuvenating benefits of our formulated blends, thoughtfully crafted to prioritize your health and wellbeing with conscious intention.<\/p>"
           }
-        },
-        "button_N4PAGd": {
-          "type": "button",
-          "settings": {
-            "button_label": "SHOP NOW",
-            "button_link": "shopify:\/\/products\/organic-irish-seamoss-blend",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "heading_EWeFkd",
-        "text_p4kUy3",
-        "button_N4PAGd"
+        "text_p4kUy3"
       ],
       "settings": {
         "desktop_content_position": "center",
