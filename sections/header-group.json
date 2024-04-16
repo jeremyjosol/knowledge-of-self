@@ -25,7 +25,7 @@
         "announcement_ULYQtq"
       ],
       "custom_css": [
-        "h6 {font-size: 12px;}"
+        "h1 {font-size: 12px;}"
       ],
       "settings": {
         "color_scheme": "",
