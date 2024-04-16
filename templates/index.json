@@ -50,7 +50,7 @@
         ".collection .card__inner {width: 50%; margin: auto;}",
         ".card__heading {font-size: 16px;}",
         ".button {font-size: 12px;}",
-        ".underline-links-hover:hover a {text-decoration: none;}"
+        ".underline-links-hover:hover a {text-decoration: none; color: red;}"
       ],
       "settings": {
         "title": "Shop Our Bestsellers",
