@@ -5,6 +5,13 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "link_list_QzAGHM": {
+          "type": "link_list",
+          "settings": {
+            "heading": "<strong>CUSTOMER SERVICE<\/strong>",
+            "menu": "policies"
+          }
+        },
         "image_3PdVrH": {
           "type": "image",
           "settings": {
@@ -12,27 +19,23 @@
             "image_width": 105,
             "alignment": "center"
           }
-        },
-        "link_list_QzAGHM": {
-          "type": "link_list",
-          "settings": {
-            "heading": "<strong>CUSTOMER SERVICE<\/strong>",
-            "menu": "policies"
-          }
         }
       },
       "block_order": [
-        "image_3PdVrH",
-        "link_list_QzAGHM"
+        "link_list_QzAGHM",
+        "image_3PdVrH"
       ],
       "custom_css": [
-        "h2 {font-size: 8px;}"
+        "h2 {font-size: 8px;}",
+        ".newsletter-form__field-wrapper .field__input,.field:after,button.disclosure__button.localization-form__select.localization-selector.link.link--text.caption-large {border-radius: 17px !important;}",
+        ".newsletter-form__field-wrapper .field__input {font-size: 10px;}",
+        ".newsletter-form {font-size: 12px;}"
       ],
       "settings": {
         "color_scheme": "scheme-2",
-        "newsletter_enable": false,
+        "newsletter_enable": true,
         "newsletter_heading": "Subscribe to our emails",
-        "enable_follow_on_shop": true,
+        "enable_follow_on_shop": false,
         "show_social": true,
         "enable_country_selector": true,
         "enable_language_selector": true,
@@ -70,6 +73,7 @@
         "paragraph",
         "email-form"
       ],
+      "disabled": true,
       "custom_css": [
         ".h2 {font-size: 13.5px;}",
         ".newsletter-form__field-wrapper .field__input,.field:after,button.disclosure__button.localization-form__select.localization-selector.link.link--text.caption-large {border-radius: 17px !important;}",
