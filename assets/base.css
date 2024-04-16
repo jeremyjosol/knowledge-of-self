@@ -3553,3 +3553,7 @@ details-disclosure > details {
   font-size: 10px; /* Default font size */
 }
  */
+
+.site-footer__section .input-group input::placeholder {
+  color: black;
+}
