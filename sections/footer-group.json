@@ -29,6 +29,9 @@
         "paragraph",
         "email-form"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "color_scheme": "scheme-2",
         "full_width": false,
