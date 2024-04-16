@@ -30,7 +30,7 @@
         "email-form"
       ],
       "custom_css": [
-        ".h2 {font-size: 1px;}",
+        ".h2 {font-size: 18px; margin-bottom: }",
         ".newsletter-form__field-wrapper .field__input,.field:after,button.disclosure__button.localization-form__select.localization-selector.link.link--text.caption-large {border-radius: 17px !important;}"
       ],
       "settings": {
