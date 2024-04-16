@@ -132,7 +132,7 @@
         "column_BhrMq9"
       ],
       "custom_css": [
-        "h3 {font-size: 17px;}"
+        "h3 {font-size: 17px; position: relative; bottom: 20px;}"
       ],
       "settings": {
         "title": "",
