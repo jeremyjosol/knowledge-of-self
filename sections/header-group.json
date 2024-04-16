@@ -25,7 +25,7 @@
         "announcement_ULYQtq"
       ],
       "custom_css": [
-        "p {font-size: 8px;}"
+        "p {font-size: 8px; position: relative;}"
       ],
       "settings": {
         "color_scheme": "",
