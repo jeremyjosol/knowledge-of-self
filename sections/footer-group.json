@@ -44,6 +44,27 @@
     },
     "footer": {
       "type": "footer",
+      "blocks": {
+        "image_3PdVrH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PNG-Transparent_2ebc1e73-1a5d-4d82-9d3f-717dc4e9849e.png",
+            "image_width": 105,
+            "alignment": "center"
+          }
+        },
+        "link_list_QzAGHM": {
+          "type": "link_list",
+          "settings": {
+            "heading": "",
+            "menu": "policies"
+          }
+        }
+      },
+      "block_order": [
+        "image_3PdVrH",
+        "link_list_QzAGHM"
+      ],
       "settings": {
         "color_scheme": "scheme-2",
         "newsletter_enable": false,
