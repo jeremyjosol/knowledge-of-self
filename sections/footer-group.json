@@ -31,7 +31,7 @@
       ],
       "custom_css": [
         ".h2 {font-size: 18px;}",
-        ".newsletter-form__field-wrapper .field__input,.field:after,button.disclosure__button.localization-form__select.localization-selector.link.link--text.caption-large {border-radius: 17px !important; position: relative;}"
+        ".newsletter-form__field-wrapper .field__input,.field:after,button.disclosure__button.localization-form__select.localization-selector.link.link--text.caption-large {border-radius: 17px !important; font-size: px;}"
       ],
       "settings": {
         "color_scheme": "scheme-2",
