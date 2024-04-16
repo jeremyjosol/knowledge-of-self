@@ -49,7 +49,7 @@
         ".price-item {color: #ffe135; font-size: 12px;}",
         ".collection .card__inner {width: 50%; margin: auto;}",
         ".card__heading {font-size: 16px;}",
-        ".card__information::hover {text-decoration: none;}",
+        ".card__heading[id*=\"title-template--\"]{text-decoration:none !important}",
         ".button {font-size: 12px;}"
       ],
       "settings": {
