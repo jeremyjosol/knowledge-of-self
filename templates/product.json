@@ -15,11 +15,6 @@
           "settings": {
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
         "price": {
           "type": "price",
           "settings": {
@@ -35,6 +30,11 @@
             "heading_2": "60 CAPSULES PER BOTTLE",
             "icon_3": "truck",
             "heading_3": "FREE US SHIPPING"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
           }
         },
         "rating": {
@@ -98,9 +98,9 @@
       "block_order": [
         "vendor",
         "title",
-        "description",
         "price",
         "icon_with_text_xKDCKX",
+        "description",
         "rating",
         "variant_picker",
         "quantity_selector",
@@ -112,7 +112,7 @@
       ],
       "custom_css": [
         "h1 {font-size: 30px;}",
-        "h4 {font-size: 16px; position: relative; top: -20px;}",
+        "h4 {font-size: 16px;}",
         ".quantity:after {border-radius: 5px !important; box-shadow: none !important;}",
         ".icon-with-text {--icon-size: calc(var(--font-heading-scale) * 0.88rem); --icon-spacing: calc(var(--font-heading-scale) * 0.7rem);}",
         "li.icon-with-text__item span {font-size: 11px;}",
