@@ -26,10 +26,10 @@
         "image_3PdVrH"
       ],
       "custom_css": [
-        "h2 {font-size: 8px;}",
+        "7ph2 {font-size: 8px;}",
         ".newsletter-form__field-wrapper .field__input,.field:after,button.disclosure__button.localization-form__select.localization-selector.link.link--text.caption-large {border-radius: 17px !important; height: 30px;}",
         ".newsletter-form__field-wrapper .field__input {font-size: 10px;}",
-        ".newsletter-form .field__label {font-size: 10px; top: 5px;}"
+        ".newsletter-form .field__label {font-size: 10px; top: 7px;}"
       ],
       "settings": {
         "color_scheme": "scheme-2",
