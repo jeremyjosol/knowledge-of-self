@@ -2109,8 +2109,8 @@ product-info .loading__spinner:not(.hidden) ~ *,
 
 .cart-count-bubble {
   position: absolute;
-  background-color: #ffe135;
-  color: white;
+  background-color: black;
+  color: #ffe135;
   height: 1.3rem;
   width: 1.3rem;
   border-radius: 100%;
