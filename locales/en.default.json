@@ -58,8 +58,8 @@
     }
   },
   "newsletter": {
-    "label": "Email",
-    "success": "Thanks for subscribing",
+    "label": "Enter Your Email",
+    "success": "Gratitude for subscribing!",
     "button_label": "Subscribe"
   },
   "accessibility": {
