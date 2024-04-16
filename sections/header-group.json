@@ -24,6 +24,9 @@
         "announcement_k3NbFU",
         "announcement_ULYQtq"
       ],
+      "custom_css": [
+        "h3 {font-size: 12px;}"
+      ],
       "settings": {
         "color_scheme": "",
         "show_line_separator": true,
