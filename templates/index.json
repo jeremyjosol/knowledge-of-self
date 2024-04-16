@@ -103,7 +103,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_3.png",
-            "title": "Secure Shopping",
+            "title": "Shop Securely",
             "text": "<p>We use SSL encryption to guarantee the safety of your personal information and the security of your transactions at all times.<\/p>",
             "link_label": "",
             "link": ""
@@ -112,9 +112,9 @@
         "column_BhrMq9": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/william-farlow-IevaZPwq0mw-unsplash.jpg",
-            "title": "Anti-Inflammatory",
-            "text": "<p>Excess mucus is one of the primary factors to inflammation in the human body. Seamoss has been proven to break down and expel mucus from the body which is key to fighting:<\/p><ul><li>Acne<\/li><li>Arthritis<\/li><li>Asthma<\/li><li>Hair Loss<\/li><\/ul>",
+            "image": "shopify:\/\/shop_images\/Untitled_design_4.png",
+            "title": "Concious Community",
+            "text": "<p>All of our products are sourced responsibly, supporting eco-friendly practices and ethical standards to make a positive impact on the planet.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -134,6 +134,9 @@
         "column_8HGVbD",
         "column_BhrMq9",
         "column_tn8G4D"
+      ],
+      "custom_css": [
+        "h3 {font-size: 30px;}"
       ],
       "settings": {
         "title": "",
