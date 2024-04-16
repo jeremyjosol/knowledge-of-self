@@ -81,13 +81,13 @@
         "heading_EWeFkd"
       ],
       "custom_css": [
-        "h2 {font-size: 20px;}"
+        "h2 {font-size: 26px;}"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "",
-        "full_width": false,
+        "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
       }
