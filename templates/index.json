@@ -136,11 +136,12 @@
         "column_BhrMq9"
       ],
       "custom_css": [
+        "h2 {text-align: center;}",
         "h3 {font-size: 17px;}"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h0",
+        "title": "WHY KNOWLEDGE OF SELF?",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
