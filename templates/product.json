@@ -15,6 +15,11 @@
           "settings": {
           }
         },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
         "icon_with_text_xKDCKX": {
           "type": "icon-with-text",
           "settings": {
@@ -56,11 +61,6 @@
             "show_gift_card_recipient": true
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
         "collapsible_tab_9K7UPg": {
           "type": "collapsible_tab",
           "settings": {
@@ -98,13 +98,13 @@
       "block_order": [
         "vendor",
         "title",
+        "description",
         "icon_with_text_xKDCKX",
         "rating",
         "price",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description",
         "collapsible_tab_9K7UPg",
         "collapsible_tab_j7NyCi",
         "collapsible_tab_MCRrHy",
