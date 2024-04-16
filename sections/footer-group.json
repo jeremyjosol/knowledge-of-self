@@ -30,7 +30,7 @@
         "email-form"
       ],
       "custom_css": [
-        ".newsletter-form__field-wrapper .field__input, .field:after, button.disclosure__button.localization-form__select.localization-selector.link.link--text.caption-large {border-radius: 100px !important;}"
+        ".newsletter-form__field-wrapper .field__input,.field:after,button.disclosure__button.localization-form__select.localization-selector.link.link--text.caption-large {border-radius: 17px !important;}"
       ],
       "settings": {
         "color_scheme": "scheme-2",
