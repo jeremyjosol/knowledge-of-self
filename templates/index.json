@@ -102,9 +102,9 @@
         "column_8HGVbD": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/eduardo-madrid-j6amjHxtc1U-unsplash_1.jpg",
-            "title": "92 out of 102",
-            "text": "<p>Sea Moss is known to contain <strong>92 out of 102<\/strong> <strong>vitamins & minerals <\/strong>that your body needs for optimal health. By taking Sea Moss, exercising regularly, eating clean, and staying hydrated, you can unlock your body's fullest potential.<\/p>",
+            "image": "shopify:\/\/shop_images\/Untitled_design_3.png",
+            "title": "Secure Shopping",
+            "text": "<p>We use SSL encryption to guarantee the safety of your personal information and the security of your transactions at all times.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -135,7 +135,6 @@
         "column_BhrMq9",
         "column_tn8G4D"
       ],
-      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h0",
