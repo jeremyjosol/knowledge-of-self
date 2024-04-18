@@ -114,7 +114,7 @@
         "text_qWXmAj": {
           "type": "text",
           "settings": {
-            "text": "$53.98",
+            "text": "{{ section.settings.product.metafields.custom.trinity.value }}",
             "text_style": "body"
           }
         },
@@ -172,7 +172,7 @@
         "share_NLq4Pw"
       ],
       "custom_css": [
-        "a.link.product__view-details.animate-arrow {display: none !important;}",
+        "a.link.product__view-details.animate-arrow {text-align: center;}",
         "h2 {font-size: 20px; text-align: center !important;}",
         "p {position: relative; top: -10px; color: #ffe135; font-size: 12px; text-align: center;}"
       ],
