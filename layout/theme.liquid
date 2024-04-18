@@ -355,11 +355,16 @@ background-color: #00000078 !important;
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
     <style>
-.menu-drawer__utility-links, .header__icon--menu[aria-expanded=true]:before , .menu-drawer__menu-item--active, .menu-drawer__menu-item:focus, .menu-drawer__close-button:focus, .menu-drawer__menu-item:hover, .menu-drawer__close-button:hover {
-    background: black;
-    opacity: 50%;
-}
+      .menu-drawer__utility-links, .header__icon--menu[aria-expanded=true]:before , .menu-drawer__menu-item--active, .menu-drawer__menu-item:focus, .menu-drawer__close-button:focus, .menu-drawer__menu-item:hover, .menu-drawer__close-button:hover {
+        background: black;
+        opacity: 50%;
+      }
+      
+      details[open] .modal-overlay:after {
+        background-color: transparent !important;
+      }
+  </style>
 
-</style>
+
   </body>
 </html>
