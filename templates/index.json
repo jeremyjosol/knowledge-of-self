@@ -114,7 +114,7 @@
         "text_qWXmAj": {
           "type": "text",
           "settings": {
-            "text": "$26.99",
+            "text": "$53.98",
             "text_style": "body"
           }
         },
@@ -165,7 +165,7 @@
       ],
       "custom_css": [
         "a.link.product__view-details.animate-arrow {display: none !important;}",
-        "h2 {font-size: 2-px; text-align: center !important;}",
+        "h2 {font-size: 20px; text-align: center !important;}",
         "p {position: relative; top: -10px; color: #ffe135; font-size: 12px; text-align: center;}"
       ],
       "settings": {
