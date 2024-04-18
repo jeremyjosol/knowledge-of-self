@@ -165,8 +165,7 @@
         "share_NLq4Pw"
       ],
       "custom_css": [
-        "a.link.product__view-details.animate-arrow {display: none !important;}",
-        "img {display: block; margin: auto !important;}"
+        "a.link.product__view-details.animate-arrow {display: none !important;}"
       ],
       "settings": {
         "product": "trinity",
