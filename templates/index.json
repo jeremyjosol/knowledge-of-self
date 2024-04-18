@@ -39,7 +39,7 @@
       "type": "featured-collection",
       "custom_css": [
         ".price-item {color: #ffe135; font-size: 12px;}",
-        ".collection .card__inner {width: 50%; margin: auto;}",
+        ".collection .card__inner {margin: auto;}",
         ".card__heading {font-size: 16px;}",
         ".button {font-size: 12px;}",
         ".underline-links-hover:hover a {text-decoration: none; font-weight: 800;}"
@@ -52,7 +52,7 @@
         "description_style": "body",
         "collection": "shop-deals",
         "products_to_show": 2,
-        "columns_desktop": 3,
+        "columns_desktop": 1,
         "full_width": true,
         "show_view_all": false,
         "view_all_style": "solid",
