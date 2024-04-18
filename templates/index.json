@@ -166,7 +166,7 @@
       ],
       "custom_css": [
         "a.link.product__view-details.animate-arrow {display: none !important;}",
-        "img {align-items: center;}"
+        "img {position: ce}"
       ],
       "settings": {
         "product": "trinity",
