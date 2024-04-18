@@ -165,7 +165,7 @@
       ],
       "custom_css": [
         "a.link.product__view-details.animate-arrow {display: none !important;}",
-        "p {color: #ffe135; font-size: 12px;}"
+        "p {color: #ffe135; font-size: 12px; text-align: center;}"
       ],
       "settings": {
         "product": "trinity",
