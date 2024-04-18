@@ -37,6 +37,9 @@
     },
     "featured_collection_7FefFB": {
       "type": "featured-collection",
+      "custom_css": [
+        ".collection .card__inner {width: 50%; margin: auto;}"
+      ],
       "settings": {
         "title": "Featured collection",
         "heading_size": "h1",
