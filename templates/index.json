@@ -105,18 +105,17 @@
     "featured_product_KkAMVi": {
       "type": "featured-product",
       "blocks": {
+        "title_NcCpp7": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h2"
+          }
+        },
         "text_qWXmAj": {
           "type": "text",
           "settings": {
-            "text": "",
-            "text_style": "subtitle"
-          }
-        },
-        "title_NcCpp7": {
-          "type": "title",
-          "disabled": true,
-          "settings": {
-            "heading_size": "h1"
+            "text": "$26.99",
+            "text_style": "body"
           }
         },
         "price_tFwhE3": {
@@ -156,8 +155,8 @@
         }
       },
       "block_order": [
-        "text_qWXmAj",
         "title_NcCpp7",
+        "text_qWXmAj",
         "price_tFwhE3",
         "variant_picker_zABnAV",
         "quantity_selector_cGDpEk",
@@ -165,7 +164,8 @@
         "share_NLq4Pw"
       ],
       "custom_css": [
-        "a.link.product__view-details.animate-arrow {display: none !important;}"
+        "a.link.product__view-details.animate-arrow {display: none !important;}",
+        "p {}"
       ],
       "settings": {
         "product": "trinity",
