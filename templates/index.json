@@ -72,8 +72,8 @@
         "text_qWXmAj": {
           "type": "text",
           "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
+            "text": "",
+            "text_style": "subtitle"
           }
         },
         "title_NcCpp7": {
