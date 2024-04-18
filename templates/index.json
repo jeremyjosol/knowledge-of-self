@@ -114,6 +114,7 @@
         },
         "title_NcCpp7": {
           "type": "title",
+          "disabled": true,
           "settings": {
             "heading_size": "h1"
           }
