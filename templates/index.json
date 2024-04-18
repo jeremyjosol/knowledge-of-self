@@ -78,6 +78,7 @@
         },
         "button_wnBHMj": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "BUY NOW",
             "button_link": "shopify:\/\/products\/trinity",
@@ -119,11 +120,13 @@
         },
         "price_tFwhE3": {
           "type": "price",
+          "disabled": true,
           "settings": {
           }
         },
         "variant_picker_zABnAV": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "picker_type": "button",
             "swatch_shape": "circle"
@@ -131,11 +134,13 @@
         },
         "quantity_selector_cGDpEk": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
           }
         },
         "buy_buttons_wPbgxU": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": true
@@ -143,6 +148,7 @@
         },
         "share_NLq4Pw": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
