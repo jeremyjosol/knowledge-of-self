@@ -118,6 +118,13 @@
             "text_style": "body"
           }
         },
+        "text_4t6JTh": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "subtitle"
+          }
+        },
         "price_tFwhE3": {
           "type": "price",
           "disabled": true,
@@ -157,6 +164,7 @@
       "block_order": [
         "title_NcCpp7",
         "text_qWXmAj",
+        "text_4t6JTh",
         "price_tFwhE3",
         "variant_picker_zABnAV",
         "quantity_selector_cGDpEk",
