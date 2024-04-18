@@ -79,7 +79,7 @@
         "button_wnBHMj": {
           "type": "button",
           "settings": {
-            "button_label": "SHOP NOW",
+            "button_label": "BUY NOW",
             "button_link": "shopify:\/\/products\/trinity",
             "button_style_secondary": false,
             "button_label_2": "",
