@@ -3554,12 +3554,7 @@ details-disclosure > details {
 }
  */
 
-.Price--compareAt {
-color: red !important;
-}
-
-.ProductMeta__Price.Price--compareAt {
+span.ProductMeta__Price.Price.Price--compareAt.Text--subdued.u-h4 font {
     color: red !important;
 }
-
 
