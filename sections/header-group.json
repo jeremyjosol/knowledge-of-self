@@ -73,7 +73,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-
+        ".header__icon--cart {}"
       ],
       "settings": {
         "logo_position": "top-center",
