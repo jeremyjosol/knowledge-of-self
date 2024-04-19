@@ -30,7 +30,7 @@
           "settings": {
             "layout": "vertical",
             "icon_1": "lightning_bolt",
-            "heading_1": "{{ product.metafields.custom.mushroom.value }}GET 25% OFF! USE CODE: 'KOS25'",
+            "heading_1": "{{ product.metafields.custom.mushroom.value }} GET 25% OFF! USE CODE: 'KOS25'",
             "icon_2": "bottle",
             "heading_2": "{{ product.metafields.custom.mushroom.value }} CAPSULES PER BOTTLE",
             "icon_3": "truck",
