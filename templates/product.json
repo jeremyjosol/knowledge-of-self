@@ -157,10 +157,10 @@
       "settings": {
         "enable_sticky_info": true,
         "color_scheme": "scheme-2",
-        "media_size": "small",
+        "media_size": "large",
         "constrain_to_viewport": true,
         "media_fit": "cover",
-        "gallery_layout": "columns",
+        "gallery_layout": "stacked",
         "media_position": "left",
         "image_zoom": "hover",
         "mobile_thumbnails": "hide",
