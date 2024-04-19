@@ -153,7 +153,7 @@
         ".accordion__title {font-size: 12.5px;}",
         ".accordion__content {font-size: 14px;}",
         "svg {width: 17px; height: 17px;}",
-        ".price--on-sale .price-item--regular {color: white; opacity: 50%;}"
+        ".price--on-sale .price-item--regular {color: red; opacity: 75%; font-size: 12px;}"
       ],
       "settings": {
         "enable_sticky_info": true,
