@@ -5,13 +5,6 @@
     "announcement_bar_Yd8tz7": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_k3NbFU": {
-          "type": "announcement",
-          "settings": {
-            "text": "BUY 2 GET 1 FREE | USE CODE: 'TRINITY'",
-            "link": ""
-          }
-        },
         "announcement_ULYQtq": {
           "type": "announcement",
           "settings": {
@@ -21,7 +14,6 @@
         }
       },
       "block_order": [
-        "announcement_k3NbFU",
         "announcement_ULYQtq"
       ],
       "custom_css": [
