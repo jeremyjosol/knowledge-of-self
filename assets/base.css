@@ -3554,4 +3554,12 @@ details-disclosure > details {
 }
  */
 
+.Price--compareAt {
+color: red !important;
+}
+
+.ProductMeta__Price.Price--compareAt {
+    color: red !important;
+}
+
 
