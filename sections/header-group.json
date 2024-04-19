@@ -73,7 +73,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-        "svg {width: 10}"
+        "svg::hover {width: }"
       ],
       "settings": {
         "logo_position": "top-center",
