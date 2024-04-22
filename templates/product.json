@@ -31,9 +31,9 @@
           "settings": {
             "layout": "vertical",
             "icon_1": "lightning_bolt",
-            "heading_1": "GET 25% OFF! USE CODE: 'KOS25'",
+            "heading_1": "GET 17% OFF! USE CODE: 'KOS17'",
             "icon_2": "truck",
-            "heading_2": "FREE US SHIPPING",
+            "heading_2": "FREE US SHIPPING ON ORDERS OVER $50",
             "icon_3": "bottle",
             "heading_3": "{{ product.metafields.custom.mushroom.value }} CAPSULES"
           }
