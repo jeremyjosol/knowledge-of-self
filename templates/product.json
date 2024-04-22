@@ -125,6 +125,11 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "ez_amazon_reviews_importer_block_9cg8Cm": {
+          "type": "shopify:\/\/apps\/ez-amazon-reviews-importer\/blocks\/block\/52f9e533-9d65-445a-a334-f65f7c8edc33",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -144,7 +149,8 @@
         "collapsible_tab_MCRrHy",
         "judge_me_reviews_review_widget_hQ4nCr",
         "judge_me_reviews_verified_badge_baE7zn",
-        "share"
+        "share",
+        "ez_amazon_reviews_importer_block_9cg8Cm"
       ],
       "custom_css": [
         "h1 {font-size: 30px;}",
