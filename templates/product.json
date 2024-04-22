@@ -128,6 +128,7 @@
         },
         "ez_amazon_reviews_importer_block_9cg8Cm": {
           "type": "shopify:\/\/apps\/ez-amazon-reviews-importer\/blocks\/block\/52f9e533-9d65-445a-a334-f65f7c8edc33",
+          "disabled": true,
           "settings": {
           }
         }
