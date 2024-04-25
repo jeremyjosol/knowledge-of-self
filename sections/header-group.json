@@ -11,10 +11,18 @@
             "text": "FREE SHIPPING TO THE US ON ORDERS OVER $50!",
             "link": ""
           }
+        },
+        "announcement_DH9Ckb": {
+          "type": "announcement",
+          "settings": {
+            "text": "17% OFF EVERYTHING | USE CODE: KOS17",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "announcement_ULYQtq"
+        "announcement_ULYQtq",
+        "announcement_DH9Ckb"
       ],
       "custom_css": [
         "p {font-size: 8px; position: relative; top: 5px;}"
