@@ -332,7 +332,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "How do I check the status of my order?",
-            "icon": "check_mark",
+            "icon": "question_mark",
             "row_content": "<p>Upon placing your order, you'll promptly receive a receipt. Subsequently, once your order is dispatched, you'll be provided with a tracking number. This number enables you to monitor your order's status on the Track Order page whenever needed.<\/p>",
             "page": ""
           }
