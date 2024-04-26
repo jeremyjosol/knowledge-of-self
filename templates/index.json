@@ -340,9 +340,9 @@
         "collapsible_row_yDKx3J": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Can I return an item if it doesn't work for me?",
+            "icon": "question_mark",
+            "row_content": "<p>Certainly! If the item arrives damaged or fails to function as described, you're eligible for a full refund. Simply contact us within 17 days of receiving the product to initiate the process. You can reach us via the Contact Page or by sending a message, and we'll assist you promptly.<\/p>",
             "page": ""
           }
         },
