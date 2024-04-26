@@ -349,9 +349,9 @@
         "collapsible_row_9gT6rc": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Do you provide a quality guarantee for all products?",
+            "icon": "question_mark",
+            "row_content": "<p>Absolutely or your money back. We source the purest ingredients within the US, have them lab tested, and work closely with an FDA registered and GMP compliant manufacturer to have them encapsulated.<\/p>",
             "page": ""
           }
         }
