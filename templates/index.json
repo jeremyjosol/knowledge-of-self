@@ -354,13 +354,23 @@
             "row_content": "<p>Absolutely, or your money back. We source the purest ingredients within the US with proper lab testing and work closely with an FDA registered and GMP compliant manufacturer to have our formulas encapsulated.<\/p>",
             "page": ""
           }
+        },
+        "collapsible_row_zhkmAr": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I store my products and how long will they last?",
+            "icon": "question_mark",
+            "row_content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "collapsible_row_cjKx8R",
         "collapsible_row_zdEYLX",
         "collapsible_row_yDKx3J",
-        "collapsible_row_9gT6rc"
+        "collapsible_row_9gT6rc",
+        "collapsible_row_zhkmAr"
       ],
       "custom_css": [
         "h2 {font-size: 22px;}",
