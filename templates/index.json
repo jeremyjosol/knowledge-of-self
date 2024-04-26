@@ -363,6 +363,7 @@
         "collapsible_row_9gT6rc"
       ],
       "custom_css": [
+        "h2 {font-size: 22px;}",
         "h3 {font-size: 18px; position: relative; top: 4px;}"
       ],
       "settings": {
