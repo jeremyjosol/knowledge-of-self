@@ -15,12 +15,6 @@
           "settings": {
           }
         },
-        "judge_me_reviews_preview_badge_URf9Vp": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "disabled": true,
-          "settings": {
-          }
-        },
         "price": {
           "type": "price",
           "settings": {
@@ -36,23 +30,6 @@
             "heading_2": "FREE US SHIPPING ON ORDERS OVER $50",
             "icon_3": "bottle",
             "heading_3": "{{ product.metafields.custom.mushroom.value }} CAPSULES"
-          }
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
-        "rating": {
-          "type": "rating",
-          "settings": {
-          }
-        },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
           }
         },
         "quantity_selector": {
@@ -79,6 +56,23 @@
             "supporting_text_title": "Purchase options",
             "subscription_policy_url": "",
             "product": "{{ product }}"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
           }
         },
         "collapsible_tab_9K7UPg": {
@@ -108,20 +102,9 @@
             "page": ""
           }
         },
-        "judge_me_reviews_review_widget_hQ4nCr": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "judge_me_reviews_verified_badge_baE7zn": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/verified_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "disabled": true,
-          "settings": {
-          }
-        },
         "share": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
@@ -136,20 +119,17 @@
       "block_order": [
         "vendor",
         "title",
-        "judge_me_reviews_preview_badge_URf9Vp",
         "price",
         "icon_with_text_xKDCKX",
-        "description",
-        "rating",
-        "variant_picker",
         "quantity_selector",
         "buy_buttons",
         "subscriptions_app_block_DLrnBy",
+        "description",
+        "rating",
+        "variant_picker",
         "collapsible_tab_9K7UPg",
         "collapsible_tab_j7NyCi",
         "collapsible_tab_MCRrHy",
-        "judge_me_reviews_review_widget_hQ4nCr",
-        "judge_me_reviews_verified_badge_baE7zn",
         "share",
         "ez_amazon_reviews_importer_block_9cg8Cm"
       ],
