@@ -397,6 +397,7 @@
         "slide_T74eaV": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/proprietary-blend_3.png",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -414,6 +415,7 @@
         "slide_MUg9Ji": {
           "type": "slide",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Logo-Transparent.png",
             "heading": "asdasd",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
