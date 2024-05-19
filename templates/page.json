@@ -57,13 +57,13 @@
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 28
       }
     },
     "image_banner_BF9Yzm": {
@@ -104,7 +104,7 @@
         "buttons_KY8wET"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Testimonials.png",
+        "image": "shopify:\/\/shop_images\/Testimonials_1.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
