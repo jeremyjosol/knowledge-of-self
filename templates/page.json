@@ -33,8 +33,9 @@
         "column_iWrgiT": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/DebraW.png",
+            "title": "",
+            "text": "<p>\"I was skeptical at first, but after taking Sea Moss and eating cleaner, my skin looks AND feels softer and younger. My joints feel much stronger, too.\"<\/p><p><\/p><h6>-Debra W<\/h6>",
             "link_label": "",
             "link": ""
           }
