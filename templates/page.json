@@ -23,8 +23,9 @@
         "column_y64kCL": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/MarcusX.png",
+            "title": "",
+            "text": "<p>\"Knowledge of Self's Sea Moss has changed my life for the better. I feel a major change in my energy levels and I'm so thankful for this supplement.\"<\/p><p><\/p><h6>- Marcus X<\/h6>",
             "link_label": "",
             "link": ""
           }
