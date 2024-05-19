@@ -7,6 +7,60 @@
         "padding_bottom": 28
       }
     },
+    "multicolumn_AnPic6": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_z7fExY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Aisha_T_1.png",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_y64kCL": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_iWrgiT": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_z7fExY",
+        "column_y64kCL",
+        "column_iWrgiT"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner_BF9Yzm": {
       "type": "image-banner",
       "blocks": {
@@ -133,6 +187,7 @@
   },
   "order": [
     "main",
+    "multicolumn_AnPic6",
     "image_banner_BF9Yzm",
     "featured_product_BTJPLW"
   ]
