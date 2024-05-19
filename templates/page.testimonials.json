@@ -1,0 +1,205 @@
+{
+  "sections": {
+    "multicolumn_AnPic6": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_z7fExY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Aisha_T_2.png",
+            "title": "",
+            "text": "<p>\"After years of waking up from arthritis pain, I notice a lot less pain waking up after taking Sea Moss for 3 months. I highly recommend this product.\"<\/p><p><\/p><h6>- Aisha T<\/h6>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_y64kCL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MarcusX.png",
+            "title": "",
+            "text": "<p>\"Knowledge of Self's Sea Moss has changed my life for the better. I feel a major change in my energy levels and I'm so thankful for this supplement.\"<\/p><p><\/p><h6>- Marcus X<\/h6>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_iWrgiT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DebraW.png",
+            "title": "",
+            "text": "<p>\"I was skeptical at first, but after taking Sea Moss and eating cleaner, my skin looks AND feels softer and younger. My joints feel much stronger, too.\"<\/p><p><\/p><h6>-Debra W<\/h6>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_z7fExY",
+        "column_y64kCL",
+        "column_iWrgiT"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "p {position: relative; top: -2px;}",
+        ".button {border: 1px solid grey;}"
+      ],
+      "settings": {
+        "title": "Featured Testimonials",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "BUY SEA MOSS NOW",
+        "button_link": "shopify:\/\/products\/organic-irish-seamoss-blend",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 44
+      }
+    },
+    "image_banner_BF9Yzm": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_aUCVPF": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_dkTNkQ": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_KY8wET": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "BUY SEA MOSS NOW",
+            "button_link_1": "shopify:\/\/products\/organic-irish-seamoss-blend",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_aUCVPF",
+        "text_dkTNkQ",
+        "buttons_KY8wET"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".button {top: 145px; border: 1px solid grey;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Testimonials_1.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 28
+      }
+    },
+    "featured_product_BTJPLW": {
+      "type": "featured-product",
+      "blocks": {
+        "title_xy3HJT": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_Ud4bW8": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_JMgBPc": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_3WbHWf": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_FDyJMe": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_bd89LH": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "title_xy3HJT",
+        "price_Ud4bW8",
+        "variant_picker_JMgBPc",
+        "quantity_selector_3WbHWf",
+        "buy_buttons_FDyJMe",
+        "share_bd89LH"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "a.link.product__view-details.animate-arrow {text-align: center !important; font-size: 12px;}",
+        "h2 {font-size: 22px;}",
+        ".price__regular {position: relative; top: -10px; color: #ffe135; font-size: 12px; text-align: center; font-weight: 100;}",
+        "p {font-size: 14.5px; position: relative; top: -10px; text-align: center !important;}",
+        "h6 {position: relative; top: -10px; color: #ffe135; font-size: 12px; text-align: center; font-weight: 100;}",
+        ".featured-product {top: 25px;}"
+      ],
+      "settings": {
+        "product": "organic-irish-seamoss-blend",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "hover",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 100,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "multicolumn_AnPic6",
+    "image_banner_BF9Yzm",
+    "main",
+    "featured_product_BTJPLW"
+  ]
+}
