@@ -41,7 +41,7 @@
       ],
       "custom_css": [
         "p {position: relative; top: -2px;}",
-        ".button {border: 1px solid white;}"
+        ".button {border: 1px solid grey;}"
       ],
       "settings": {
         "title": "Featured Testimonials",
@@ -97,7 +97,7 @@
         "buttons_KY8wET"
       ],
       "custom_css": [
-        ".button {top: 145px; border: 1px solid white;}"
+        ".button {top: 145px; border: 1px solid grey;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Testimonials_1.png",
@@ -188,7 +188,7 @@
         "image_zoom": "hover",
         "hide_variants": false,
         "enable_video_looping": false,
-        "padding_top": 60,
+        "padding_top": 76,
         "padding_bottom": 36
       }
     }
