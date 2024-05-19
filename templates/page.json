@@ -40,7 +40,8 @@
         "column_iWrgiT"
       ],
       "custom_css": [
-        "p {position: relative; top: -2px;}"
+        "p {position: relative; top: -2px;}",
+        ".button {border: 1px solid white;}"
       ],
       "settings": {
         "title": "Featured Testimonials",
@@ -96,7 +97,7 @@
         "buttons_KY8wET"
       ],
       "custom_css": [
-        ".button {top: 140px;}"
+        ".button {top: 145px; border: 1px solid white;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Testimonials_1.png",
