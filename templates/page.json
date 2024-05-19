@@ -50,13 +50,13 @@
         "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
+        "button_label": "BUY NOW",
+        "button_link": "shopify:\/\/products\/organic-irish-seamoss-blend",
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 0,
-        "padding_bottom": 28
+        "padding_bottom": 44
       }
     },
     "image_banner_BF9Yzm": {
