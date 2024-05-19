@@ -121,13 +121,6 @@
     "featured_product_BTJPLW": {
       "type": "featured-product",
       "blocks": {
-        "text_nnwX4n": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "title_xy3HJT": {
           "type": "title",
           "settings": {
@@ -167,7 +160,6 @@
         }
       },
       "block_order": [
-        "text_nnwX4n",
         "title_xy3HJT",
         "price_Ud4bW8",
         "variant_picker_JMgBPc",
