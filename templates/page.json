@@ -169,7 +169,7 @@
       ],
       "custom_css": [
         "a.link.product__view-details.animate-arrow {text-align: center !important; font-size: 12px;}",
-        "h2 {font-size: 20px; text-align: center !important;}",
+        "h2 {font-size: 20px;}",
         "p {font-size: 14.5px; position: relative; top: -10px; text-align: center !important;}",
         "h6 {position: relative; top: -10px; color: #ffe135; font-size: 12px; text-align: center; font-weight: 100;}"
       ],
