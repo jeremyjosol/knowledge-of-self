@@ -39,6 +39,7 @@
         "column_y64kCL",
         "column_iWrgiT"
       ],
+      "disabled": true,
       "custom_css": [
         "p {position: relative; top: -2px;}",
         ".button {border: 1px solid grey;}"
@@ -96,6 +97,7 @@
         "text_dkTNkQ",
         "buttons_KY8wET"
       ],
+      "disabled": true,
       "custom_css": [
         ".button {top: 145px; border: 1px solid grey;}"
       ],
@@ -115,7 +117,6 @@
     },
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
         "padding_top": 0,
         "padding_bottom": 28
@@ -170,6 +171,7 @@
         "buy_buttons_FDyJMe",
         "share_bd89LH"
       ],
+      "disabled": true,
       "custom_css": [
         "a.link.product__view-details.animate-arrow {text-align: center !important; font-size: 12px;}",
         "h2 {font-size: 22px;}",
