@@ -175,7 +175,8 @@
         "h2 {font-size: 22px;}",
         ".price__regular {position: relative; top: -10px; color: #ffe135; font-size: 12px; text-align: center; font-weight: 100;}",
         "p {font-size: 14.5px; position: relative; top: -10px; text-align: center !important;}",
-        "h6 {position: relative; top: -10px; color: #ffe135; font-size: 12px; text-align: center; font-weight: 100;}"
+        "h6 {position: relative; top: -10px; color: #ffe135; font-size: 12px; text-align: center; font-weight: 100;}",
+        ".featured-product {top: 25px;}"
       ],
       "settings": {
         "product": "organic-irish-seamoss-blend",
