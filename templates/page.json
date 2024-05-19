@@ -13,9 +13,9 @@
         "column_z7fExY": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Aisha_T_1.png",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Aisha_T_2.png",
+            "title": "",
+            "text": "<p>\"After years of waking up from arthritis pain, I notice a lot less pain waking up after taking Sea Moss for 3 months. I highly recommend this product.\"<\/p><p><\/p><h6>- Aisha T<\/h6>",
             "link_label": "",
             "link": ""
           }
@@ -43,6 +43,9 @@
         "column_z7fExY",
         "column_y64kCL",
         "column_iWrgiT"
+      ],
+      "custom_css": [
+        "p {position: relative; top: -25px;}"
       ],
       "settings": {
         "title": "Multicolumn",
